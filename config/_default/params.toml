@@ -1,7 +1,7 @@
 ########################### Default parameters ######################
 logo = "images/sondiale-w-background-02-01.png"
 logo_width = "150px"
-logo_footer = "images/sondiale-w-background-02-01-white.png"
+logo_footer = "images/sondiale-w-background-02-01-ffffff.png"
 favicon = "images/favicon.png"
 page_sharing_image = "images/backgrounds/page-sharing.jpg"
 # top header
