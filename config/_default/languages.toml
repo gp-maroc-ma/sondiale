@@ -8,7 +8,7 @@ weight = 1
 [en.params]
 baseURL = "/"
 home = "Home"
-keywords = ["GPM Parks","Solar Energy", "Renewable Energy", "Sustainable Industrial Hubs", "Utility-Scale Solar", "GreenPower Morocco", "Photovoltaic Park", "Clean Energy", "Solar Innovation", "Morocco Green Energy", "Industrial Ecosystems"]
+keywords = ["Sondiale",]
 
 # cookie consent content
 consent_manage = 'Manage preferences'
@@ -23,7 +23,7 @@ consent_save_preferences = 'Save preferences'
 
 # footer content
 footer_content = "GPM Parks - Powering Tomorrow with Solar Innovation. <br>Each solar plant developed by GPM Parks contributes to reducing greenhouse gas emissions, lowering dependence on imported fossil fuels, stabilizing long-term electricity costs, and supporting Morocco’s renewable-energy objectives hrough technically robust, environmentally responsible, and economically viable solar solutions."
-copyright = "Copyright © GPM Parks, %s-year All rights reserved"
+copyright = "Copyright © Sondiale, %s-year All rights reserved"
 
 
 ################################### French language #####################################
@@ -36,7 +36,7 @@ weight = 2
 [fr.params]
 baseURL = "/fr/"
 home = "Accueil"
-keywords = ["GPM Parks","Énergie Solaire", "Énergie Renouvelable", "Hubs Industriels Durables", "Solaire à Grande Échelle", "GreenPower Maroc", "Parc Photovoltaïque", "Énergie Propre", "Innovation Solaire", "Énergie Verte Maroc", "Écosystèmes Industriels"]
+keywords = ["Sondiale",]
 
 # cookie consent content
 consent_manage = 'Gérer les préférences'
@@ -52,4 +52,4 @@ consent_save_preferences = 'Enregistrer'
 # footer content
 footer_content = "GPM Parks - Alimenter demain avec l'innovation solaire. <br>Chaque centrale solaire développée par GPM Parks contribue à réduire les émissions de gaz à effet de serre, à diminuer la dépendance aux combustibles fossiles importés, à stabiliser les coûts de l'électricité à long terme et à soutenir les objectifs du Maroc en matière d'énergies renouvelables grâce à des solutions solaires techniquement robustes, écologiquement responsables et économiquement viables."
 # copyright
-copyright = "Copyright © GPM Parks, %s-year Tous droits réservés"
+copyright = "Copyright © Sondiale, %s-year Tous droits réservés"

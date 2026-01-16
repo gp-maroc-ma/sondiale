@@ -55,7 +55,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://gpm-parks.gp-maroc.ma/"
+            --baseURL "https://sondiale.gp-maroc.ma/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

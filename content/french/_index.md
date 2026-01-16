@@ -4,7 +4,7 @@ hero_slider:
   enable : true
   slider_item:
     # slider item
-    - subtitle : "GPM Parks"
+    - subtitle : "Sondiale"
       title : "Hubs Industriels <br>Durables"
       content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés aux 
       énergies renouvelables et à la croissance stratégique."
@@ -18,7 +18,7 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
     # slider item
-    - subtitle : "GPM Parks"
+    - subtitle : "Sondiale"
       title : "Production d'énergie <br>solaire à grande échelle"
       content : "Les centrales solaires à grande échelle sont conçues pour fonctionner pendant 25 à 30 ans avec une dégradation minimale."
       bg_image_webp : "images/slider/09.png"
@@ -31,7 +31,7 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
     # slider item
-    - subtitle : "GPM Parks"
+    - subtitle : "Sondiale"
       title : "Puissance maximale <br>avec chaque panneau"
       content : "Nous privilégions les projets techniquement solides, respectueux de l'environnement et économiquement viables à long terme."
       bg_image_webp : "images/slider/image5.jpg"

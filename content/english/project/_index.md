@@ -1,5 +1,5 @@
 ---
-subtitle : "GPM Parks Projects"
+subtitle : "Sondiale Projects"
 title : "Project Solutions"
 # meta description
 description: "develops, builds, owns, and operates large-scale solar photovoltaic power plants"
