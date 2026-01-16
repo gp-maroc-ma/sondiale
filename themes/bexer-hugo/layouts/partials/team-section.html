@@ -1,7 +1,7 @@
 {{ "<!-- team -->" | safeHTML }}
 {{$show_item:= .Params.team.show_item}}
 {{ with site.GetPage (string .Params.team.section) }}
-<section class="section pt-0 bg-gray-white">
+<section class="section pt-5 bg-green-white">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
@@ -10,7 +10,7 @@
         <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
       </div>
     </div>
-    <div class="row">
+    <div class="row justify-content-center">
       {{ range first ($show_item | default 3) .Data.Pages }}
       {{ "<!-- team member -->" | safeHTML }}
       <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">

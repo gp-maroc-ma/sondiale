@@ -187,9 +187,9 @@ service:
 
 ################################# team ##############################################
 team:
-  enable : false
+  enable : true
   section: "team"
-  show_item : 3
+  show_item : 2
   # team member comes from "content/*/team" folder
 
 ################################# project ############################################
@@ -309,10 +309,10 @@ contact:
 
   # form item
   - id:  "phone"
-    label: "Phone"
+    label: "Telephone"
     type: input
     input_type: text
-    placeholder: "Phone"
+    placeholder: "Telephone"
     name: "entry.1333006019"
     maxlength: 15
     required: false
