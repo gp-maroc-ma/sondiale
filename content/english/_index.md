@@ -5,9 +5,8 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "Sondiale"
-      title : "Sustainable <br>Industrial Hubs"
-      content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
-      and strategic growth."
+      title : "Advanced Polysilicon <br>& Energy Materials"
+      content : "A strategically supported industrial initiative designed to develop diversified global supply chains outside China for solar and semiconductor materials."
       bg_image_webp : "images/slider/image44.jpeg"
       bg_image : "images/slider/image44.jpeg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
@@ -19,8 +18,8 @@ hero_slider:
         
     # slider item
     - subtitle : "Sondiale"
-      title : "Utility-Scale <br>Solar GenerationN"
-      content : "Utility-scale solar plants are designed to operate for 25-30 years with minimal degradation."
+      title : "Low-Cost Renewable <br>Energy Supply"
+      content : "Long-term, low-cost electricity supply secured with approximately 90% renewable energy-based generation supporting competitive manufacturing."
       bg_image_webp : "images/slider/09.png"
       bg_image : "images/slider/09.png"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
@@ -32,9 +31,8 @@ hero_slider:
         
     # slider item
     - subtitle : "Sondiale"
-      title : "Maximum power <br>with every panel"
-      content : "Focusing on projects that are technically robust, environmentally responsible, and economically viable 
-      over the long term."
+      title : "Strategic Partnership <br>Opportunities"
+      content : "Engaging long-term strategic partners across the polysilicon and advanced materials ecosystem for technology, investment, and supply alignment."
       bg_image_webp : "images/slider/image5.jpg"
       bg_image : "images/slider/image5.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
@@ -50,19 +48,24 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Utility-Scale Solar Plants"
-      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Large-scale photovoltaic power plants with minimal degradation."
-      
+    - name: "Strategic <br>Location"
+      icon: "fas fa-map-marker-alt"
+      content: "Morocco provides strategic proximity to Europe, Africa and Middle East markets."
+
     # banner feature item loop
-    - name : "Solar Tracking Technology"
-      icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Advanced horizontal-axis solar trackers for full day productivity."
-      
+    - name: "Institutional <br>De-Risking"
+      icon: "fas fa-shield-alt"
+      content: "Project validated and supported by DFC and Moroccan government."
+
     # banner feature item loop
-    - name : "Environmental Impact Reduction"
-      icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Zero-emission electricity generation avoids reducing dependence on fossil fuels."
+    - name: "Industrial-Scale <br>Manufacturing"
+      icon: "fas fa-industry"
+      content: "Purpose-built advanced polysilicon production facilities."
+
+    # banner feature item loop
+    - name: "Supply Chain <br>Resilience"
+      icon: "fas fa-network-wired"
+      content: "Diversified polysilicon production capacity serving global markets."
 
 
 ################################## about ####################################
@@ -95,24 +98,24 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "Ongoing projects"
-      count : "3"
-      icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
-      
-    # fanfacts item loop
-    - name : "Years Experience"
-      count : "10"
-      icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      
-    # fanfacts item loop
-    - name : "Annual Production (GWh)"
-      count : "67"
-      icon : "fas fa-bolt" # font-awesome 5 : https://fontawesome.com/icons/
-      
-    # fanfacts item loop
-    - name : "Projects Area (ha)"
-      count : "72"
-      icon : "fas fa-map" # font-awesome 5 : https://fontawesome.com/icons/
+    - name: "Development Grant <br>($M)"
+      count: "5"
+      icon: "fas fa-dollar-sign"
+
+    # funfacts item 2
+    - name: "Government Support ($M)"
+      count: "120"
+      icon: "fas fa-building"
+
+    # funfacts item 3
+    - name: "DFC Financing Interest ($M)"
+      count: "550"
+      icon: "fas fa-chart-line"
+
+    # funfacts item 4
+    - name: "Renewable Energy Share (%)"
+      count: "90"
+      icon: "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
       
 
 ################################# feature ############################################
@@ -209,7 +212,7 @@ project:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Power Your Future with Clean Energy Solutions"
+  title : "Develop Resilient Supply Chains for Advanced Materials"
   bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   button:
