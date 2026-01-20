@@ -22,7 +22,7 @@ consent_allow_all = 'Allow all'
 consent_save_preferences = 'Save preferences'
 
 # footer content
-footer_content = "GPM Parks - Powering Tomorrow with Solar Innovation. <br>Each solar plant developed by GPM Parks contributes to reducing greenhouse gas emissions, lowering dependence on imported fossil fuels, stabilizing long-term electricity costs, and supporting Morocco’s renewable-energy objectives hrough technically robust, environmentally responsible, and economically viable solar solutions."
+footer_content = "The Sondiale Project is a strategically supported industrial initiative focused on developing polysilicon and advanced energy materials production capacity in Morocco, designed to build resilient and diversified global supply chains for the solar and semiconductor industries. Sondiale combines institutional support, government backing, and world-class technology to deliver competitively priced, low-carbon materials for global markets."
 copyright = "Copyright © Sondiale, %s-year All rights reserved"
 
 

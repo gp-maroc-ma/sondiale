@@ -7,8 +7,8 @@ hero_slider:
     - subtitle : "Sondiale"
       title : "Advanced Polysilicon <br>& Energy Materials"
       content : "A strategically supported industrial initiative designed to develop diversified global supply chains outside China for solar and semiconductor materials."
-      bg_image_webp : "images/slider/image44.jpeg"
-      bg_image : "images/slider/image44.jpeg"
+      bg_image_webp : "images/slider/polysilicon_solar_cell.jpg"
+      bg_image : "images/slider/polysilicon_solar_cell.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -20,8 +20,8 @@ hero_slider:
     - subtitle : "Sondiale"
       title : "Low-Cost Renewable <br>Energy Supply"
       content : "Long-term, low-cost electricity supply secured with approximately 90% renewable energy-based generation supporting competitive manufacturing."
-      bg_image_webp : "images/slider/09.png"
-      bg_image : "images/slider/09.png"
+      bg_image_webp : "images/slider/aerial-landscape-crimea.jpg"
+      bg_image : "images/slider/aerial-landscape-crimea.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -33,8 +33,8 @@ hero_slider:
     - subtitle : "Sondiale"
       title : "Strategic Partnership <br>Opportunities"
       content : "Engaging long-term strategic partners across the polysilicon and advanced materials ecosystem for technology, investment, and supply alignment."
-      bg_image_webp : "images/slider/image5.jpg"
-      bg_image : "images/slider/image5.jpg"
+      bg_image_webp : "images/slider/elevated-view-textured-blue-paint-wallpaper.jpg"
+      bg_image : "images/slider/elevated-view-textured-blue-paint-wallpaper.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -72,22 +72,19 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "What GPM Parks Does"
+  title : "Executive Project Summary"
   
-  content : "GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants 
-  convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
+  content : "The Sondiale Project is an advanced materials initiative focused on the development of polysilicon and 
+  related energy materials production capacity in Morocco. The project is designed to support resilient, diversified 
+  global supply chains outside of China for the solar and semiconductor industries.
   <br><br>
-  Utility-scale solar plants consist of thousands of photovoltaic panels installed on large tracts of land, supported 
-  by electrical infrastructure such as inverters, transformers, and substations. These systems are designed to operate 
-  for 25-30 years with minimal degradation.
-  <br><br>
-  GPM Parks focuses on projects that are technically robust, environmentally responsible, and economically viable over 
-  the long term."
+  Sondiale is currently in feasibility, engineering definition, and strategic partner engagement phase, with secured 
+  site and energy access and early institutional and government support."
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/image3.jpeg"
-  image : "images/about/image3.jpeg"
+  image_webp : "images/about/piece-raw-polycrystalline-silicon-wood-01.jpg"
+  image : "images/about/piece-raw-polycrystalline-silicon-wood-01.jpg"
   button:
     enable : true;
     label : "more services"
@@ -121,27 +118,32 @@ funfacts :
 ################################# feature ############################################
 feature:
   enable : true
-  subtitle : "Manufacturing & Technology"
-  title : "Solar Park Technology"
-  image_webp : "images/about/GPM-1-2-map.jpeg"
-  image : "images/about/GPM-1-2-map.jpeg"
+  subtitle : "Why Choose Us"
+  title : "Strategic Rationale"
+  image_webp : "images/about/polysilicon.webp"
+  image : "images/about/polysilicon.webp"
   content : ""
   feature_item:
     # feature item loop
-    - name : "State-of-the-Art Equipment for Clean Energy Production"
-      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and 
-      high-performance energy production.
-      <br><br> 
-      - <b>Solar Tracking:</b> The panels are mounted on horizontal-axis solar trackers aligned in a North-South 
-      direction. This technology allows the panels to follow the sunlight from sunrise to sunset, maximizing energy 
-      production throughout the day. <br>
-      - <b>Energy Conversion:</b> Photovoltaic panels capture solar energy and convert it into electricity. This output 
-      is optimized by inverter systems that ensure a stable and efficient transformation of the current.<br>
-      - <b>Grid Integration:</b> The energy produced is transmitted via transformer stations and delivery substations, 
-      allowing for safe and seamless integration into the national electrical grid.
-      <br><br> This system offers fluid, secure operation compliant with industry best practices while supplying green 
-      electricity to the network."
+    - name : "Why Polysilicon"
+      icon : "fas fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Polysilicon is a critical raw material for solar photovoltaic wafers, semiconductor microelectronics, 
+      and advanced digital and energy technologies. <br>
+      Global supply remains highly concentrated, leading governments, manufacturers, and investors to prioritize 
+      supply-chain resilience, geographic diversification outside China, low-carbon manufacturing pathways, and 
+      long-term reliability of industrial partners. <br>
+      Leading global producers outside China demonstrate that competitiveness depends on ultra-high purity production, 
+      rigorous process control, stable access to low-cost energy, and long-term institutional alignment. These 
+      principles form the foundation of the Sondiale development strategy."
+      
+    # feature item loop
+    - name : "Why Morocco"
+      icon : "fas fa-flag" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Morocco offers a compelling platform for advanced materials manufacturing, combining strategic 
+      proximity to Europe, Africa, and the Middle East with a strong national commitment to renewable energy 
+      development. <br>
+      The Sondiale Project aligns with Morocco’s ambition to move beyond energy generation into energy-linked 
+      industrial manufacturing and export-oriented production."
      
       
 ################################# service ############################################
@@ -205,16 +207,16 @@ project:
   show_item : 3
   button:
     enable : true
-    label : "more projects"
+    label : "more details"
     link : "project/"
   # project item comes from "content/*/project" folder
 
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Develop Resilient Supply Chains for Advanced Materials"
-  bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
-  bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
+  title : "Develop Resilient Supply Chains for energy independence"
+  bg_image_webp : "images/backgrounds/overhead-view-magnetic-metal-shaving-backdrop.jpg"
+  bg_image : "images/backgrounds/overhead-view-magnetic-metal-shaving-backdrop.jpg"
   button:
     enable : false
     label : "get a quote"
