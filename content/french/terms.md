@@ -26,7 +26,7 @@ Le site web de **Sondiale** peut contenir des liens vers le hub central de **GPM
 
 ### **4. Exactitude des Informations**
 
-Bien que nous nous efforcions d'être précis, le contenu de ce site — en particulier les spécifications des projets et les descriptions des solutions — est fourni à titre d'information générale.
+Bien que nous nous efforcions d'être précis, le contenu de ce site - en particulier les spécifications des projets et les descriptions des solutions - est fourni à titre d'information générale.
 
 * **Mises à jour :** Les détails techniques et les descriptions de projets sont susceptibles d'être modifiés sans préavis au fur et à mesure des développements.
 * **Avis de non-responsabilité :** Sondiale ne garantit pas que les documents présents sur son site web sont exacts, complets ou à jour.

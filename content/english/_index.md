@@ -204,7 +204,7 @@ team:
 project:
   enable : true
   section: "project"
-  show_item : 3
+  show_item : 4
   button:
     enable : true
     label : "more details"

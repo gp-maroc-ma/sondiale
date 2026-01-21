@@ -1,3 +1,14 @@
+SUNDIAL — POLYSILICON DEVELOPMENT
+What Polysilicon Is
+Polysilicon is an ultra-high-purity material used to manufacture solar cells and semiconductor devices.
+
+Why Polysilicon Is Strategically Important
+Polysilicon is the foundation of the solar value chain and critical for energy independence and supply chain resilience.
+
+Sundial Project Overview
+Sundial represents GPM1 Holding’s initiative to develop polysilicon production capacity in Morocco, currently in structured development and feasibility phases.
+
+
 ONE-PAGE WEB FORMAT: Sondiale Project
 Page Title (browser/meta): Sondiale Project | Advanced Polysilicon & Energy Materials – Morocco
 URL: /project/sondiale/
@@ -88,6 +99,8 @@ Contact
    Phase 3: Construction & Commissioning
    Phase 4: Expansion, Optimization & Potential Downstream Integration
    (Layout note: display phases as a 4-step timeline or numbered cards.)
+   Closing line:
+   The phased development approach ensures systematic de-risking while maintaining strategic flexibility for partner integration and market opportunities.
 
 8) TECHNOLOGY PRINCIPLES (Anchor: #technology)
    Section Title: Technology & Manufacturing Principles

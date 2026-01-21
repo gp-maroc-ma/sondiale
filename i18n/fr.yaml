@@ -77,7 +77,7 @@
   translation: Blog
 
 - id: section_project
-  translation: Projets
+  translation: Caractéristiques
 
 - id: section_service
   translation: Services
