@@ -26,7 +26,7 @@ The **Sondiale** website may contain links to the **GPM Holding** central hub (*
 
 ### **4. Accuracy of Information**
 
-While we strive for precision, the content on this site—particularly project specifications and solution descriptions—is provided for general informational purposes.
+While we strive for precision, the content on this site - particularly project specifications and solution descriptions - is provided for general informational purposes.
 
 * **Updates:** Technical details and project descriptions are subject to change without notice as developments occur.
 * **Disclaimer:** Sondiale does not warrant that the materials on its website are accurate, complete, or current.
