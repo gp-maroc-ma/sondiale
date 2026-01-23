@@ -29,7 +29,7 @@ quick_contact = true
 search = false
 
 # Main section
-mainSections = ["blog"]
+mainSections = ["project"]
 
 # Preloader
 [preloader]
