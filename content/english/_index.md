@@ -288,7 +288,7 @@ contact:
       type: input
       input_type: text
       placeholder: "Name *"
-      name: "entry.1436542053"
+      name: "entry.1464170303"
       maxlength: 255
       required: true
 
@@ -309,7 +309,7 @@ contact:
       type: input
       input_type: email
       placeholder: "Confirm Email *"
-      name: "entry.1404406591"
+      name: "entry.435278474"
       pattern: '^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$'
       maxlength: 255
       required: false
@@ -321,7 +321,7 @@ contact:
       type: input
       input_type: text
       placeholder: "Telephone"
-      name: "entry.1333006019"
+      name: "entry.1704211452"
       maxlength: 15
       required: false
 
@@ -331,7 +331,7 @@ contact:
       type: input
       input_type: text
       placeholder: "Subject"
-      name: "entry.2008139399"
+      name: "entry.687982788"
       maxlength: 255
       required: false
 
@@ -341,7 +341,7 @@ contact:
       type: textarea
       input_type: text
       placeholder: "Your Message *"
-      name: "entry.1150758010"
+      name: "entry.1242541007"
       maxlength: 400
       required: true
 
@@ -351,7 +351,7 @@ contact:
       type: select
       input_type: text
       placeholder: "Language"
-      name: "entry.740536652"
+      name: "entry.294230623"
       required: false
       hidden: true
       default: "EN"
