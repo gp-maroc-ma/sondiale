@@ -73,3 +73,10 @@ suffixes = ["webmanifest"]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
+############################# Taxonomies ###############################
+[taxonomies]
+# Disable the default tags taxonomy since it's not used in this project
+# Only keep categories if needed, otherwise comment out or remove
+# category = "categories"
+# tag = "tags"
