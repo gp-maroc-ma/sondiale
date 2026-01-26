@@ -197,7 +197,7 @@ service:
 team:
   enable : true
   section: "team"
-  show_item : 2
+  show_item : 3
   # team member comes from "content/*/team" folder
 
 ################################# project ############################################
