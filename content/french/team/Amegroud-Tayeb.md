@@ -4,8 +4,8 @@ date: 2016-12-07T10:47:55+06:00
 # meta description
 description: "Conseiller CEO GPM Holding"
 # page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image_webp: "images/backgrounds/project-page-title.jpg"
+bg_image: "images/backgrounds/project-page-title.jpg"
 # portrait
 # image_webp: "images/team/team-2.webp"
 image: "images/team/Amegroud-Tayeb.jpeg"
@@ -18,8 +18,8 @@ social:
   # - icon : "fab fa-twitter" # font-awesome 5 : https://fontawesome.com/icons/
   #   link : "#"
     
-  - icon : "fab fa-linkedin" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "https://www.linkedin.com/in/tayeb-amegroud-80983245/?gp-maroc.ma"
+#  - icon : "fab fa-linkedin" # font-awesome 5 : https://fontawesome.com/icons/
+#    link : "https://www.linkedin.com/in/tayeb-amegroud-80983245/?gp-maroc.ma"
     
   # - icon : "fab fa-pinterest" # font-awesome 5 : https://fontawesome.com/icons/
   #   link : "#"
