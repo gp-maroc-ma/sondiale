@@ -15,7 +15,7 @@
     </div>
   </div>
   <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-  <span style="min-height: 48px; display: block;">{{ .Params.Designation | markdownify }}</span>
+  <span class="team-button-sm">{{ .Params.Designation | markdownify }}</span>
   <div class="mt-4">
     {{ $teamSection := .Site.GetPage "/team" }}
     {{ if and $teamSection.Params.team_member_button.enable $teamSection.Params.team_member_button.title }}

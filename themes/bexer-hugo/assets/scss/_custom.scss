@@ -163,3 +163,11 @@ section[id] {
 #form-messages {
   transition: all 0.3s ease-in-out;
 }
+
+.team-button-sm {
+  display: block;
+
+  @media(min-width: 768px) {
+    min-height: 48px;
+  }
+}
