@@ -8,9 +8,14 @@
 <!-- multilingual SEO optimizations -->
 {{ if .IsTranslated }}
 {{ range .AllTranslations }}
+{{ if eq .Lang "en" }}
+<link rel="canonical" hreflang="{{.Lang}}" href="{{ .Permalink }}">
+{{ else }}
 <link rel="alternate" hreflang="{{.Lang}}" href="{{ .Permalink }}">
 {{ end }}
-<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ end }}
+{{ else }}
+<link rel="canonical" hreflang="x-default" href="{{ .Permalink }}">
 {{ end }}
 
 {{ if site.Params.keywords }}
