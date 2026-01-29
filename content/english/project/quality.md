@@ -1,6 +1,6 @@
 ---
 title: "QUALITY & ESG"
-date: 2015-02-07T10:47:55+06:00
+date: 2025-02-07T10:47:55+06:00
 # meta description
 description: "Quality, Sustainability & ESG of the Sondiale project."
 # page title background image
