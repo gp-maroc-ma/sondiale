@@ -11,7 +11,8 @@
     <div class="hero-slider-item bg-cover hero-section" style="background-image: url('{{ .bg_image_webp | absURL }}');">
       <!-- this image is for trigger this section fallback background image -->
       <img class="d-none" src="{{ .bg_image_webp | absURL }}"
-        onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
+        onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"
+        alt="Slider image for {{ site.Title }}" >
 
       <!-- Semi-transparent gray overlay -->
       <div class="hero-overlay"></div>

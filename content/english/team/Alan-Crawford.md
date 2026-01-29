@@ -1,6 +1,6 @@
 ---
 title: "Alan Crawford"
-date: 2017-09-30T10:47:55+06:00
+date: 2025-02-08T10:47:55+06:00
 # meta description
 description: "Technical Director – Technology & Process Safety"
 # page title background image

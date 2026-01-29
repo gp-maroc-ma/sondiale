@@ -1,6 +1,6 @@
 ---
 title: "Amegroud Tayeb"
-date: 2016-12-07T10:47:55+06:00
+date: 2025-02-07T10:47:55+06:00
 # meta description
 description: "Advisor to the CEO of GPM Holding"
 # page title background image

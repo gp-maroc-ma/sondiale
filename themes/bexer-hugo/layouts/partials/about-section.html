@@ -4,7 +4,8 @@
     <div class="col-md-5 bg-contain mb-5 mb-lg-0" data-background="{{ .bg_image_webp | absURL }}">
       <!-- this image is for trigger this section fallback background image -->
       <img class="d-none about-img-rounded-shadow" src="{{ .bg_image_webp | absURL }}"
-        onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" />
+           onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"
+           alt="Abstract background image"/>
       {{ "<!-- about us image -->" | safeHTML }}
       <img loading="lazy" class="img-fluid w-100 about-img-rounded-shadow" src="{{ .image_webp | absURL }}"
         onerror="this.onerror=null;this.src='{{.image | absURL }}'" alt="About Image">
