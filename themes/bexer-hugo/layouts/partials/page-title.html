@@ -2,7 +2,8 @@
 <section class="section bg-cover overlay" style="background-image: url('{{ .Params.Bg_image_webp | absURL }}'),url('{{ .Params.Bg_image | absURL }}'),url('{{ `images/backgrounds/page-title.jpg` | absURL }}');">
   <!-- this image is for trigger this section fallback background image -->
   <img class="d-none" src="{{ .Params.bg_image_webp | absURL }}"
-    onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .Params.bg_image | absURL }})'">
+       onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .Params.bg_image | absURL }})'"
+       alt="Section abstract background">
   <div class="container">
     <div class="row">
       <div class="col-12">

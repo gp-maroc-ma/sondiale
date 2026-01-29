@@ -37,7 +37,7 @@
         {{ else if eq .Page.Lang "en" }}
         {{ $baseURL = site.Params.baseURL | default site.BaseURL }}
         {{ end }}
-        <a class="navbar-brand py-4 py-xl-0" href="{{ $baseURL | relLangURL }}"><img loading="lazy" class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" style="width:{{ site.Params.logo_width}}"></a>
+        <a class="navbar-brand py-4 py-xl-0" href="{{ $baseURL | relLangURL }}"><img loading="lazy" class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }} logo" style="width:{{ site.Params.logo_width}}"></a>
         <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
           aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
