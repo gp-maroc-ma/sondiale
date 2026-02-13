@@ -22,6 +22,7 @@ gtm = "" # GTM-XXXXXXXX
 # Global date parameters
 year = 2026
 cookie_consent = false
+deployed_git_tag = "local-version"
 
 # page sidebar quick contact form
 quick_contact = true

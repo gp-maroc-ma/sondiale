@@ -39,6 +39,30 @@ The site will be available at `http://localhost:1313`. The development server au
 docker-compose down
 ```
 
+## Contributing
+
+### Merge Strategy
+
+- **Feature branch to main**: Squash and merge
+- **Main to production**: Rebase merge
+
+### Release Tags
+
+When merging to production, create a release and tag on GitHub:
+
+1. Go to the repository on GitHub
+2. Click on "Releases" in the sidebar
+3. Click "Create a new release"
+4. Enter the version tag (e.g., `v1.0.0`)
+5. Add release notes describing the changes
+6. Publish the release
+
+### Checking the Deployed Version
+
+The currently deployed version on production can be checked by looking at the last `<div>` tag of the footer where
+the `deployed_git_tag` variable is displayed, showing the current release version (e.g., `v1.0.0`). The last `<div>`
+tag is hidden and can be checked by HTML inspection using browser developer tools.
+
 ---
 
 ### Resources
