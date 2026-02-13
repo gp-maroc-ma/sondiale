@@ -1,0 +1,6 @@
+# Amplify-specific parameters
+# These are only used when building with -e amplify
+
+gtm = "GTM-P7PNTZ9N"          # Google Tag Manager ID (set via environment variable)
+year = 2026       # Current year
+cookie_consent = true  # Enable cookie consent banner
