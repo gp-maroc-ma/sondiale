@@ -33,8 +33,8 @@ hero_slider:
     - subtitle : "Sondiale"
       title : "Strategic Partnership <br>Opportunities"
       content : "Engaging long-term strategic partners across the polysilicon and advanced materials ecosystem for technology, investment, and supply alignment."
-      bg_image_webp : "images/slider/elevated-view-textured-blue-paint-wallpaper.jpg"
-      bg_image : "images/slider/elevated-view-textured-blue-paint-wallpaper.jpg"
+      bg_image_webp : "images/slider/microchip-background.jpg"
+      bg_image : "images/slider/microchip-background.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -83,8 +83,8 @@ about:
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/piece-raw-polycrystalline-silicon-wood-01.jpg"
-  image : "images/about/piece-raw-polycrystalline-silicon-wood-01.jpg"
+  image_webp : "images/about/semi-wafer-01.jpg"
+  image : "images/about/semi-wafer-01.jpg"
   button:
     enable : true;
     label : "Contact"
@@ -120,8 +120,8 @@ feature:
   enable : true
   subtitle : "Why Choose Us"
   title : "Strategic Rationale"
-  image_webp : "images/about/polysilicon.webp"
-  image : "images/about/polysilicon.webp"
+  image_webp : "images/about/polysilicon-chunk-05.jpg"
+  image : "images/about/polysilicon-chunk-05.jpg"
   content : ""
   feature_item:
     # feature item loop
