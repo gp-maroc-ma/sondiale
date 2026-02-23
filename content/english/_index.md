@@ -33,8 +33,8 @@ hero_slider:
     - subtitle : "Sondiale"
       title : "Strategic Partnership <br>Opportunities"
       content : "Engaging long-term strategic partners across the polysilicon and advanced materials ecosystem for technology, investment, and supply alignment."
-      bg_image_webp : "images/slider/elevated-view-textured-blue-paint-wallpaper.jpg"
-      bg_image : "images/slider/elevated-view-textured-blue-paint-wallpaper.jpg"
+      bg_image_webp : "images/slider/microchip-background.jpg"
+      bg_image : "images/slider/microchip-background.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -60,12 +60,12 @@ banner_feature:
     # banner feature item loop
     - name: "Industrial-Scale <br>Manufacturing"
       icon: "fas fa-industry"
-      content: "Purpose-built advanced polysilicon production facilities."
+      content: "Purpose-built ultra high purity polysilicon and silicon gas production facilities."
 
     # banner feature item loop
     - name: "Supply Chain <br>Resilience"
       icon: "fas fa-network-wired"
-      content: "Diversified polysilicon production capacity serving global markets."
+      content: "Diversified polysilicon and silicon gas capacity serving global solar, semiconductor, and EV markets."
 
 
 ################################## about ####################################
@@ -74,20 +74,20 @@ about:
   subtitle : "About Us"
   title : "Executive Project Summary"
   
-  content : "The Sondiale Project is an advanced materials initiative focused on the development of polysilicon and 
-  related energy materials production capacity in Morocco. The project is designed to support resilient, diversified 
-  global supply chains outside of China for the solar and semiconductor industries.
+  content : "The Sondiale Project is an advanced materials initiative focused on the development of ultra pure 
+  polysilicon and related silicon gas materials production capacity in Morocco. The project is designed to support 
+  resilient, diversified global supply chains outside of China for the solar, semiconductor and EV industries.
   <br><br>
   Sondiale is currently in feasibility, engineering definition, and strategic partner engagement phase, with secured 
   site and energy access and early institutional and government support."
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/piece-raw-polycrystalline-silicon-wood-01.jpg"
-  image : "images/about/piece-raw-polycrystalline-silicon-wood-01.jpg"
+  image_webp : "images/about/semi-wafer-01.jpg"
+  image : "images/about/semi-wafer-01.jpg"
   button:
     enable : true;
-    label : "more services"
+    label : "Contact"
     link : "#contacts"
 
 ################################## funfacts ###############################
@@ -120,18 +120,21 @@ feature:
   enable : true
   subtitle : "Why Choose Us"
   title : "Strategic Rationale"
-  image_webp : "images/about/polysilicon.webp"
-  image : "images/about/polysilicon.webp"
+  image_webp : "images/about/polysilicon-chunk-05.jpg"
+  image : "images/about/polysilicon-chunk-05.jpg"
   content : ""
   feature_item:
     # feature item loop
-    - name : "Why Polysilicon"
+    - name : "Why Polysilicon and silicon gases"
       icon : "fas fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Polysilicon is a critical raw material for solar photovoltaic wafers, semiconductor microelectronics, 
-      and advanced digital and energy technologies. <br>
+      content : "Polysilicon is a critical raw material for semiconductor miorelectronics, solar photovolataic wafers, 
+      and electric vehicles (EV). Silicon gases such as silane are a speciality raw materials for semiconductor and 
+      advanced battery applications. 
+      <br><br>
       Global supply remains highly concentrated, leading governments, manufacturers, and investors to prioritize 
       supply-chain resilience, geographic diversification outside China, low-carbon manufacturing pathways, and 
-      long-term reliability of industrial partners. <br>
+      long-term reliability of industrial partners. 
+      <br><br>
       Leading global producers outside China demonstrate that competitiveness depends on ultra-high purity production, 
       rigorous process control, stable access to low-cost energy, and long-term institutional alignment. These 
       principles form the foundation of the Sondiale development strategy."
@@ -141,7 +144,8 @@ feature:
       icon : "fas fa-flag" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Morocco offers a compelling platform for advanced materials manufacturing, combining strategic 
       proximity to Europe, Africa, and the Middle East with a strong national commitment to renewable energy 
-      development. <br>
+      development. 
+      <br><br>
       The Sondiale Project aligns with Morocco’s ambition to move beyond energy generation into energy-linked 
       industrial manufacturing and export-oriented production."
      
