@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /admin/
+Disallow: /private/
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://sondiale.ma/sitemap.xml
+Sitemap: https://sondiale.ma/en/sitemap.xml
+Sitemap: https://sondiale.ma/fr/sitemap.xml
+

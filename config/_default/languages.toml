@@ -1,0 +1,55 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+
+[en.params]
+baseURL = "/"
+home = "Home"
+keywords = ["Sondiale",]
+
+# cookie consent content
+consent_manage = 'Manage preferences'
+consent_deny = 'Deny'
+consent_allow = 'Allow'
+consent_outer_message_1 = 'We would like to use '
+consent_inner_message = 'third party code'
+consent_outer_message_2 = ' to improve the functionality of this website.'
+consent_description = 'This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on.'
+consent_allow_all = 'Allow all'
+consent_save_preferences = 'Save preferences'
+
+# footer content
+footer_content = "The Sondiale Project is a strategically supported industrial initiative focused on developing polysilicon and advanced energy materials production capacity in Morocco, designed to build resilient and diversified global supply chains for the solar and semiconductor industries. Sondiale combines institutional support, government backing, and world-class technology to deliver competitively priced, low-carbon materials for global markets."
+copyright = "Copyright © Sondiale, %s-year All rights reserved"
+
+
+################################### French language #####################################
+[fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+
+[fr.params]
+baseURL = "/fr/"
+home = "Accueil"
+keywords = ["Sondiale",]
+
+# cookie consent content
+consent_manage = 'Gérer les préférences'
+consent_deny = 'Refuser'
+consent_allow = 'Autoriser'
+consent_outer_message_1 = 'Nous souhaitons utiliser '
+consent_inner_message = 'du code tiers'
+consent_outer_message_2 = ' pour améliorer le fonctionnement de ce site.'
+consent_description = "Ce code nous donne un aperçu du nombre de personnes qui visitent notre site, d'où elles viennent et sur quoi elles cliquent."
+consent_allow_all = 'Tout autoriser'
+consent_save_preferences = 'Enregistrer'
+
+# footer content
+footer_content = "Le Projet Sondiale est une initiative industrielle soutenue stratégiquement, axée sur le développement de capacités de production de polysilicium et de matériaux énergétiques avancés au Maroc, conçue pour bâtir des chaînes d'approvisionnement mondiales résilientes et diversifiées pour les industries solaire et des semiconducteurs. Sondiale combine soutien institutionnel, appui gouvernemental et technologie de classe mondiale pour fournir des matériaux bas carbone à prix compétitifs aux marchés mondiaux."
+# copyright
+copyright = "Copyright © Sondiale, %s-year Tous droits réservés"
