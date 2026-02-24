@@ -1,8 +1,8 @@
 ---
-title: "LOCATION & INFRASTRUCTURE"
+title: "LOCALISATION & INFRASTRUCTURE"
 date: 2025-02-07T10:47:55+06:00
 # meta description
-description: "Location & Infrastructure of the Sondiale project."
+description: "Localisation & Infrastructure du projet Sondiale."
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,20 +10,20 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 image_webp: "images/project/location_tan-tan.png"
 image: "images/project/location_tan-tan.png"
 # project category
-category: "Location"
+category: "Localisation"
 # project status
-status : "In development"
+status : "En développement"
 ---
 
-### Secured Site - Tan-Tan, Morocco
-- Dedicated industrial site secured in Tan-Tan
-- Selected based on energy access, industrial zoning, export logistics potential, and long-term scalability
+### Site Sécurisé - Tan-Tan, Maroc
+- Site industriel dédié sécurisé à Tan-Tan
+- Sélectionné sur la base de l'accès à l'énergie, du zonage industriel, du potentiel logistique à l'exportation et de l'évolutivité à long terme
 
-### Energy Supply
-- Long-term, low-cost electricity supply secured
-- Approximately 90% renewable energy-based generation
-- Energy framework designed to support competitive operating costs and reduced carbon intensity
+### Approvisionnement Énergétique
+- Approvisionnement électrique à long terme et à faible coût sécurisé
+- Production basée à environ 90% sur les énergies renouvelables
+- Cadre énergétique conçu pour soutenir des coûts d'exploitation compétitifs et une intensité carbone réduite
 
 <br>
 
-#### Energy availability and pricing are core enablers of polysilicon competitiveness and central to project design.
+#### La disponibilité et le prix de l'énergie sont des facteurs clés de la compétitivité du polysilicium et sont au cœur de la conception du projet.
