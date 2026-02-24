@@ -1,8 +1,8 @@
 ---
-title: "TECHNOLOGY PRINCIPLES"
+title: "PRINCIPES TECHNOLOGIQUES"
 date: 2025-02-07T10:47:55+06:00
 # meta description
-description: "Technology & Manufacturing Principles of the Sondiale project."
+description: "Principes Technologiques & de Fabrication du projet Sondiale."
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,17 +10,17 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 image_webp: "images/project/save-world-ecology-environmental-01.jpg"
 image: "images/project/save-world-ecology-environmental-01.jpg"
 # project category
-category: "Technology & Manufacturing Principles"
+category: "Principes Technologiques & de Fabrication"
 # project status
-status : "In development"
+status : "En développement"
 ---
 
-Sondiale’s technical planning reflects established global best practices, including:
-- Industry-leading TCS production, purification, and deposition technologies
-- Ultra-high purity targets aligned with global benchmarks for top tier semiconductor producers
-- Energy conservation through waste heat recovery and process heat integration
-- Digital process monitoring and optimization
+La planification technique de Sondiale reflète les meilleures pratiques mondiales établies, notamment :
+- Technologies de production, purification et dépôt de TCS à la pointe de l'industrie
+- Objectifs de très haute pureté alignés sur les références mondiales des producteurs de semiconducteurs de premier rang
+- Conservation de l'énergie grâce à la récupération de chaleur résiduelle et l'intégration thermique des procédés
+- Surveillance et optimisation numériques des procédés
 
 <br>
 
-#### The project structure allows for technology partnerships, licensing, or joint-venture participation.
+#### La structure du projet permet des partenariats technologiques, des licences ou une participation en coentreprise.

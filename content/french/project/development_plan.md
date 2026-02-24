@@ -1,8 +1,8 @@
 ---
-title: "DEVELOPMENT PLAN"
+title: "PLAN DE DÉVELOPPEMENT"
 date: 2025-02-07T10:47:55+06:00
 # meta description
-description: "Vision & Development Strategy of the Sondiale project."
+description: "Vision & Stratégie de Développement du projet Sondiale."
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,32 +10,35 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 image_webp: "images/project/phased-development-approach-03.png"
 image: "images/project/phased-development-approach-03.png"
 # project category
-category: "Vision & Development Strategy"
+category: "Vision & Stratégie de Développement"
 # project status
-status : "In development"
+status : "En développement"
 ---
 
-### Long-Term Vision
-Sondiale aims to develop scalable, internationally competitive polysilicon production capabilities serving solar photovoltaic value chains, semiconductor-grade material pathways, and global export markets.
+### Vision à Long Terme
+Sondiale vise à développer des capacités de production de polysilicium évolutives et compétitives à l'échelle internationale, 
+au service des chaînes de valeur du photovoltaïque solaire, des filières de matériaux de qualité semiconducteur et des marchés 
+d'exportation mondiaux.
 
-### Phased Development Approach
-- Phase 1: Feasibility & Strategic Partner Alignment (Current Phase)
-- Phase 2: Engineering, Permitting & Project Structuring
-- Phase 3: Construction & Commissioning
-- Phase 4: Expansion, Optimization & Potential Downstream Integration
+### Approche de Développement par Phases
+- Phase 1 : Faisabilité & Alignement des Partenaires Stratégiques (Phase Actuelle)
+- Phase 2 : Ingénierie, Autorisations & Structuration du Projet
+- Phase 3 : Construction & Mise en Service
+- Phase 4 : Expansion, Optimisation & Intégration Aval Potentielle
 
-### Current Status
-- Development grant secured
-- Government support confirmed
-- Site secured in Tan-Tan
-- Energy framework defined
-- Strategic partner discussions ongoing
+### État Actuel
+- Subvention de développement obtenue
+- Soutien gouvernemental confirmé
+- Site sécurisé à Tan-Tan
+- Cadre énergétique défini
+- Discussions avec les partenaires stratégiques en cours
 
-### Next Steps
-- Completion of feasibility studies
-- Selection of strategic partners
-- Advancement of engineering and financing
+### Prochaines Étapes
+- Achèvement des études de faisabilité
+- Sélection des partenaires stratégiques
+- Avancement de l'ingénierie et du financement
 
 <br>
 
-#### The phased development approach ensures systematic de-risking while maintaining strategic flexibility for partner integration and market opportunities.
+#### L'approche de développement par phases assure une réduction systématique des risques tout en maintenant une flexibilité stratégique pour 
+l'intégration des partenaires et les opportunités de marché.
