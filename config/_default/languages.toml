@@ -50,6 +50,6 @@ consent_allow_all = 'Tout autoriser'
 consent_save_preferences = 'Enregistrer'
 
 # footer content
-footer_content = "GPM Parks - Alimenter demain avec l'innovation solaire. <br>Chaque centrale solaire développée par GPM Parks contribue à réduire les émissions de gaz à effet de serre, à diminuer la dépendance aux combustibles fossiles importés, à stabiliser les coûts de l'électricité à long terme et à soutenir les objectifs du Maroc en matière d'énergies renouvelables grâce à des solutions solaires techniquement robustes, écologiquement responsables et économiquement viables."
+footer_content = "Le Projet Sondiale est une initiative industrielle soutenue stratégiquement, axée sur le développement de capacités de production de polysilicium et de matériaux énergétiques avancés au Maroc, conçue pour bâtir des chaînes d'approvisionnement mondiales résilientes et diversifiées pour les industries solaire et des semiconducteurs. Sondiale combine soutien institutionnel, appui gouvernemental et technologie de classe mondiale pour fournir des matériaux bas carbone à prix compétitifs aux marchés mondiaux."
 # copyright
 copyright = "Copyright © Sondiale, %s-year Tous droits réservés"
