@@ -13,7 +13,7 @@ hero_slider:
       button:
         enable : true
         label : "en savoir plus"
-        link : "project/"
+        link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -26,7 +26,7 @@ hero_slider:
       button:
         enable : true
         label : "en savoir plus"
-        link : "project/"
+        link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -39,7 +39,7 @@ hero_slider:
       button:
         enable : true
         label : "en savoir plus"
-        link : "project/"
+        link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
