@@ -2,7 +2,7 @@
 title: "David Seburn"
 date: 2025-02-09T10:47:55+06:00
 # meta description
-description: "Managing Director – Project Development & Strategic Partnerships"
+description: "Directeur Général – Développement de Projets & Partenariats Stratégiques"
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,7 +10,7 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 # image_webp: "images/team/team-2.webp"
 image: "images/team/David-Seburn-profile-picture.png"
 # designation
-designation: "Managing Director – Project Development & Strategic Partnerships"
+designation: "Directeur Général – Développement de Projets & Partenariats Stratégiques"
 social:
   # - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/icons/
   #   link : "#"
@@ -37,16 +37,18 @@ social:
 #   percentage : 95%
 ---
 
-#### Managing Director – Project Development & Strategic Partnerships
+#### Directeur Général – Développement de Projets & Partenariats Stratégiques
 
-Dave Seburn is a chemical engineer and senior industry executive with over 25 years of experience in polysilicon,
-silane, and large-scale industrial manufacturing. He brings deep expertise in project development, technology strategy,
-and operational execution for complex energy and materials projects.
+Dave Seburn est un ingénieur chimiste et cadre supérieur de l'industrie avec plus de 25 ans d'expérience dans le
+polysilicium, le silane et la fabrication industrielle à grande échelle. Il apporte une expertise approfondie en
+développement de projets, stratégie technologique et exécution opérationnelle pour des projets complexes dans les
+domaines de l'énergie et des matériaux.
 
-Dave has held senior leadership roles with organizations including REC Silicon, Trina Solar, Qatar Solar Technologies,
-and Dow Chemical. His experience includes greenfield project development, EPC/EPCM coordination, process engineering,
-plant operations, and technical due diligence across North America, Asia, and the Middle East.
+Dave a occupé des postes de direction au sein d'organisations telles que REC Silicon, Trina Solar, Qatar Solar
+Technologies et Dow Chemical. Son expérience comprend le développement de projets greenfield, la coordination EPC/EPCM,
+l'ingénierie des procédés, l'exploitation d'usines et la due diligence technique en Amérique du Nord, en Asie et au
+Moyen-Orient.
 
-He has also founded and led engineering and technology companies focused on advanced silicon materials. Dave holds a
-B.S. in Chemical Engineering from the University of Arizona and an M.S. in Chemical Engineering from the University of
-Houston.
+Il a également fondé et dirigé des entreprises d'ingénierie et de technologie spécialisées dans les matériaux de
+silicium avancés. Dave est titulaire d'un B.S. en génie chimique de l'Université d'Arizona et d'un M.S. en génie
+chimique de l'Université de Houston.

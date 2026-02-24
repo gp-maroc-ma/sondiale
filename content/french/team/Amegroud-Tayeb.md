@@ -38,7 +38,11 @@ social:
 ---
 
 #### Directeur exécutif/Conseiller CEO
-Tayeb possède 26 ans d'expérience dans le secteur énergétique et la banque d'investissement. Il a occupé les postes de directeur de développement des projets renouvelables et de la planification & stratégie à l'ONEE. Avant cela, il était directeur exécutif chez Swiss Re à New York et à Londres, et chez Lehman Brothers. Diplômé de l'Ecole Polytechnique, Paris, et titulaire d'un diplôme d'ingénieur de l'Ecole Nationale des Ponts et Chaussées, Paris. Il est aussi titulaire d'un MSc sur les technologies des énergies renouvelables de l'Université de Southampton, et d'un DEA en mathématiques de l'Université Pierre et Marie Curie. 
+Tayeb possède 26 ans d'expérience dans le secteur énergétique et la banque d'investissement. Il a occupé les postes de directeur 
+de développement des projets renouvelables et de la planification & stratégie à l'ONEE. Avant cela, il était directeur exécutif 
+chez Swiss Re à New York et à Londres, et chez Lehman Brothers. Diplômé de l'Ecole Polytechnique, Paris, et titulaire d'un diplôme 
+d'ingénieur de l'Ecole Nationale des Ponts et Chaussées, Paris. Il est aussi titulaire d'un MSc sur les technologies des énergies 
+renouvelables de l'Université de Southampton, et d'un DEA en mathématiques de l'Université Pierre et Marie Curie. 
 
 Il conseille GPM Holding sur tous les aspects techniques et financiers des projets solaires PV depuis 2017.
 
