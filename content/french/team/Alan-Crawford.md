@@ -2,7 +2,7 @@
 title: "Alan Crawford"
 date: 2025-02-08T10:47:55+06:00
 # meta description
-description: "Technical Director – Technology & Process Safety"
+description: "Directeur Technique – Technologie & Sécurité des Procédés"
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,7 +10,7 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 # image_webp: "images/team/team-2.webp"
 image: "images/team/Alan-Crawford-profile-picture.JPG"
 # designation
-designation: "Technical Director – Technology & Process Safety"
+designation: "Directeur Technique – Technologie & Sécurité des Procédés"
 social:
 # - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/icons/
 #   link : "#"
@@ -37,18 +37,19 @@ social:
 #   percentage : 95%
 ---
 
-#### Technical Director – Technology & Process Safety
+#### Directeur Technique – Technologie & Sécurité des Procédés
 
-Alan is a chemical engineer who has focused 36 years of his career on technology and operations for conversion of
-metallurgical grade silicon to methylchlorosilanes and trichlorosilane for production of silicones, polycrystalline
-silicon and silicon-based anode materials for lithium ion batteries. One specific area of expertise is the safe design
-and operation of metallurgical grade silicon grinding plants. He excels in root cause identification of complex
-commercial problems and implementation of improved process technology focused on reduction of operating costs. Alan has
-worked as an independent chemical engineering consultant since late 2008 in the global silicone and polycrystalline
-silicon industries with clients in Asia, Europe, Middle East and the United States. He formerly worked for REC Silicon (
-2004-2008) and began his career with General Electric in a wide range of jobs at three GE businesses including GE
-Silicones (1989 – 2004). Alan is a motivated, detail oriented engineer of high integrity who is not afraid to challenge
-the status quo of existing technology in order to drive innovation. Since 2021, Alan has combined his extensive
-knowledge of how the metallurgical grade silicon industry is integrated with the polysilicon industry to trace the flow
-of silicon materials produced with forced labor in the Xinjiang Uyghur Autonomous Region (XUAR) in the global solar and
-silicone industries.
+Alan est un ingénieur chimiste qui a consacré 36 ans de sa carrière à la technologie et aux opérations de conversion du
+silicium de qualité métallurgique en méthylchlorosilanes et trichlorosilane pour la production de silicones, de silicium
+polycristallin et de matériaux d'anode à base de silicium pour batteries lithium-ion. Un domaine d'expertise spécifique
+est la conception sécurisée et l'exploitation d'usines de broyage de silicium de qualité métallurgique. Il excelle dans
+l'identification des causes profondes de problèmes commerciaux complexes et la mise en œuvre de technologies de procédés
+améliorées axées sur la réduction des coûts d'exploitation. Alan travaille comme consultant indépendant en génie chimique
+depuis fin 2008 dans les industries mondiales des silicones et du silicium polycristallin, avec des clients en Asie, en
+Europe, au Moyen-Orient et aux États-Unis. Il a précédemment travaillé pour REC Silicon (2004-2008) et a débuté sa
+carrière chez General Electric dans une grande variété de postes au sein de trois divisions de GE, dont GE Silicones
+(1989 – 2004). Alan est un ingénieur motivé, rigoureux et intègre, qui n'hésite pas à remettre en question le statu quo
+des technologies existantes afin de stimuler l'innovation. Depuis 2021, Alan combine sa connaissance approfondie de
+l'intégration de l'industrie du silicium de qualité métallurgique avec l'industrie du polysilicium pour tracer le flux
+des matériaux de silicium produits avec le travail forcé dans la Région Autonome Ouïghoure du Xinjiang (XUAR) au sein
+des industries mondiales du solaire et des silicones.
