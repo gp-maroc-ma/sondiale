@@ -8,7 +8,7 @@ weight = 1
 [en.params]
 baseURL = "/"
 home = "Home"
-keywords = ["Sondiale",]
+keywords = ["Sondiale", "polysilicon", "solar energy", "semiconductor materials", "Morocco", "renewable energy", "supply chain", "industrial manufacturing", "silicon gas", "sustainability"]
 
 # cookie consent content
 consent_manage = 'Manage preferences'
@@ -36,7 +36,7 @@ weight = 2
 [fr.params]
 baseURL = "/fr/"
 home = "Accueil"
-keywords = ["Sondiale",]
+keywords = ["Sondiale", "polysilicium", "énergie solaire", "matériaux semi-conducteurs", "Maroc", "énergie renouvelable", "chaîne d'approvisionnement", "fabrication industrielle", "gaz de silicium", "durabilité"]
 
 # cookie consent content
 consent_manage = 'Gérer les préférences'
