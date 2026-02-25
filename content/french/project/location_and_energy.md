@@ -1,6 +1,6 @@
 ---
 title: "LOCALISATION & INFRASTRUCTURE"
-date: 2025-02-07T10:47:55+06:00
+date: 2025-02-09T10:47:55+06:00
 # meta description
 description: "Localisation & Infrastructure du projet Sondiale."
 # page title background image
