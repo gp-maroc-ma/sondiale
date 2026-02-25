@@ -7,8 +7,8 @@ description: "Vision & Development Strategy of the Sondiale project."
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
 # project image
-image_webp: "images/project/phased-development-approach-03.png"
-image: "images/project/phased-development-approach-03.png"
+image_webp: "images/project/phased-development-approach-03.jpg"
+image: "images/project/phased-development-approach-03.jpg"
 # project category
 category: "Vision & Development Strategy"
 # project status

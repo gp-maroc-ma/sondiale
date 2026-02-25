@@ -55,8 +55,10 @@
             <i class="{{ . }} icon text-primary"></i>
           </div>
           {{ end }}
-          <h4 class="mb-4">{{ .name | markdownify }}</h4>
-          <p>{{ .content | markdownify }}</p>
+          <div class="{{ if eq site.Language.Lang "fr" }}min-height-fr{{ else }}min-height-en{{ end }}">
+            <h4 class="mb-4">{{ .name | markdownify }}</h4>
+            <p>{{ .content | markdownify }}</p>
+          </div>
         </div>
       </div>
       {{ end }}

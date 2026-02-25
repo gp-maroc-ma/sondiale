@@ -1,14 +1,14 @@
 ---
 title: "PLAN DE DÉVELOPPEMENT"
-date: 2025-02-07T10:47:55+06:00
+date: 2025-02-10T10:47:55+06:00
 # meta description
 description: "Vision & Stratégie de Développement du projet Sondiale."
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
 # project image
-image_webp: "images/project/phased-development-approach-03.png"
-image: "images/project/phased-development-approach-03.png"
+image_webp: "images/project/phased-development-approach-03.jpg"
+image: "images/project/phased-development-approach-03.jpg"
 # project category
 category: "Vision & Stratégie de Développement"
 # project status
