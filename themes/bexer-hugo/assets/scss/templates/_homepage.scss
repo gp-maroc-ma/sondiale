@@ -6,9 +6,25 @@
 .banner-feature {
   transition: .2s ease;
 
-  p {
-    @media(min-width:576px){
-      min-height: 96px;
+  .min-height-en {
+    p {
+      @media(min-width: 576px) {
+        min-height: 96px;
+      }
+    }
+  }
+
+  .min-height-fr {
+    h4 {
+      @media(min-width: 576px) {
+        min-height: 80px;
+      }
+    }
+
+    p {
+      @media(min-width: 576px) {
+        min-height: 144px;
+      }
     }
   }
 

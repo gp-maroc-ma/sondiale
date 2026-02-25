@@ -1,6 +1,6 @@
 ---
 title: "PRINCIPES TECHNOLOGIQUES"
-date: 2025-02-07T10:47:55+06:00
+date: 2025-01-06T10:47:55+06:00
 # meta description
 description: "Principes Technologiques & de Fabrication du projet Sondiale."
 # page title background image
