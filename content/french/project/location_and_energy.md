@@ -7,8 +7,8 @@ description: "Localisation & Infrastructure du projet Sondiale."
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
 # project image
-image_webp: "images/project/location_tan-tan.png"
-image: "images/project/location_tan-tan.png"
+image_webp: "images/project/location_tan-tan.jpg"
+image: "images/project/location_tan-tan.jpg"
 # project category
 category: "Localisation"
 # project status
