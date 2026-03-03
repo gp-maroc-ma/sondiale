@@ -18,13 +18,13 @@ weight = 3
 
 [[main]]
 name = "GPM Holding"
-url = "https://gp-maroc.ma/"
+url = "https://gp-maroc.ma/fr/"
 weight = 3
 
 # footer menu
 [[footer_menu]]
 name = "GPM Holding"
-url = "https://gp-maroc.ma/"
+url = "https://gp-maroc.ma/fr/"
 weight = 1
 
 # footer bottom links
