@@ -10,6 +10,11 @@ baseURL = "/"
 home = "Home"
 keywords = ["Sondiale", "polysilicon", "solar energy", "semiconductor materials", "Morocco", "renewable energy", "supply chain", "industrial manufacturing", "silicon gas", "sustainability"]
 
+# contact info
+address = "183 Prince Heritier Avenue, NREA Center, No. 13, Ground Floor (RDC), Tangier"
+mobile = "0539 94 59 52"
+email = "info@gp-maroc.ma"
+
 # cookie consent content
 consent_manage = 'Manage preferences'
 consent_deny = 'Deny'
@@ -37,6 +42,11 @@ weight = 2
 baseURL = "/fr/"
 home = "Accueil"
 keywords = ["Sondiale", "polysilicium", "énergie solaire", "matériaux semi-conducteurs", "Maroc", "énergie renouvelable", "chaîne d'approvisionnement", "fabrication industrielle", "gaz de silicium", "durabilité"]
+
+# contact info
+address = "183 AVENUE PRINCE HERITIER CENTRE NREA LOCAL N 13 RDC, Tanger"
+mobile = "0539 94 59 52"
+email = "info@gp-maroc.ma"
 
 # cookie consent content
 consent_manage = 'Gérer les préférences'
