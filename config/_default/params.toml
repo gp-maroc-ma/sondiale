@@ -9,10 +9,7 @@ top_header = false
 # Meta data
 description = "Sondiale represents GPM Holding’s initiative to develop polysilicon production capacity in Morocco."
 author = "Sondiale"
-# contact info
-address = "183 AVENUE PRINCE HERITIER CENTRE NREA LOCAL N 13 RDC, Tanger"
-mobile = "0539 94 59 52"
-email = "info@gp-maroc.ma"
+
 # contact form action
 contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLScEdzfQoOUjjbdjJUh8t-kglV91fAaAEaxbU86rzFm1Jr3XNw/formResponse" # contact form works with https://formspree.io
 
