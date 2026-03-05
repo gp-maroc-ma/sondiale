@@ -3,6 +3,9 @@ logo = "images/sondiale-w-background-02-01.png"
 logo_width = "150px"
 logo_footer = "images/sondiale-w-background-02-01-ffffff.png"
 favicon = "images/favicon.png"
+logo_holding = "images/logo.png"
+title_holding = "GPM Holding"
+url_holding = "https://gp-maroc.ma/"
 page_sharing_image = "images/backgrounds/page-sharing.jpg"
 # top header
 top_header = false
