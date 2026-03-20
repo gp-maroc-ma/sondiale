@@ -3,6 +3,9 @@ logo = "images/sondiale-w-background-02-01.png"
 logo_width = "150px"
 logo_footer = "images/sondiale-w-background-02-01-ffffff.png"
 favicon = "images/favicon.png"
+logo_holding = "images/logo.png"
+title_holding = "GPM Holding"
+url_holding = "https://gp-maroc.ma/"
 page_sharing_image = "images/backgrounds/page-sharing.jpg"
 # top header
 top_header = false
@@ -11,7 +14,7 @@ description = "Sondiale represents GPM Holding’s initiative to develop polysil
 author = "Sondiale"
 
 # contact form action
-contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLScEdzfQoOUjjbdjJUh8t-kglV91fAaAEaxbU86rzFm1Jr3XNw/formResponse" # contact form works with https://formspree.io
+contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfIu2hDM5koRPVm3zpoTRO4f2rb4an7up8ObQWQCnqpneGA5Q/formResponse" # contact form works with https://formspree.io
 
 # Google Tag Manager
 gtm = "" # GTM-XXXXXXXX

@@ -171,3 +171,18 @@ section[id] {
     min-height: 48px;
   }
 }
+
+/* Navigation wrapper flex layout for justify-content-around to work */
+.navigation-wrapper {
+  .logo-container,
+  .empty-container {
+    display: none;
+    min-width: 20%;
+    text-align: center;
+
+    @media (min-width: 1200px) {
+      display: block;
+    }
+  }
+}
+
