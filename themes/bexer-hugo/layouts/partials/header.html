@@ -28,15 +28,15 @@
   {{ end }}
 
   {{ "<!-- navigation -->" | safeHTML }}
-<!--  <div class="navigation bg-white position-relative">-->
-<!--    {{ $holdingURL := site.Params.url_holding }}-->
-<!--    {{ if eq .Page.Lang "fr" }}-->
-<!--    {{ $holdingURL = printf "%sfr/" site.Params.url_holding }}-->
-<!--    {{ end }}-->
-<!--    <div class="navigation-wrapper d-flex align-items-center">-->
-<!--      <div class="logo-container">-->
-<!--        <a class="py-4 py-xl-0" href="{{ $holdingURL | relLangURL }}"><img loading="lazy" class="img-fluid" src="{{ site.Params.logo_holding | absURL }}" alt="{{ site.Params.title_holding }} logo" style="width:{{ site.Params.logo_width}}"></a>-->
-<!--      </div>-->
+  <div class="navigation bg-white position-relative">
+    {{ $holdingURL := site.Params.url_holding }}
+    {{ if eq .Page.Lang "fr" }}
+    {{ $holdingURL = printf "%sfr/" site.Params.url_holding }}
+    {{ end }}
+    <div class="navigation-wrapper d-flex align-items-center">
+      <div class="logo-container">
+        <a class="py-4 py-xl-0" href="{{ $holdingURL | relLangURL }}"><img loading="lazy" class="img-fluid" src="{{ site.Params.logo_holding | absURL }}" alt="{{ site.Params.title_holding }} logo" style="width:{{ site.Params.logo_width}}"></a>
+      </div>
 
       <div class="container">
       <nav class="navbar navbar-expand-xl navbar-light bg-white">
@@ -117,8 +117,8 @@
           {{ end }}
         </div>
       </nav>
-<!--    </div>-->
-<!--      <div class="empty-container"></div>-->
+    </div>
+      <div class="empty-container"></div>
     </div>
   </div>
   {{ "<!-- /navigation -->" | safeHTML }}
