@@ -29,25 +29,43 @@ defaults:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, x64, ubuntu-24.04, docker, sondiale]
+
+    container:
+      image: ubuntu:24.04
+
     env:
-      HUGO_VERSION: 0.153.4
+      HUGO_VERSION: "0.153.4"
+      DEBIAN_FRONTEND: noninteractive
+
     steps:
+      - name: Check runner
+        run: |
+          echo "Runner: ${RUNNER_NAME}"
+          cat /etc/os-release
+
+      - name: Install system dependencies
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends \
+            ca-certificates wget git libstdc++6 tzdata
+
       - name: Install Hugo CLI
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://nexus-rm.dmp-insight.com/repository/github-releases/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
+          wget -O "${RUNNER_TEMP}/hugo.deb" \
+            "https://nexus-rm.dmp-insight.com/repository/github-releases/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          apt-get install -y --no-install-recommends "${RUNNER_TEMP}/hugo.deb"
+          hugo version
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -66,7 +84,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, x64, ubuntu-24.04, docker, sondiale]
     needs: build
     steps:
       - name: Deploy to GitHub Pages
