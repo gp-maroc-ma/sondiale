@@ -29,7 +29,7 @@ defaults:
 jobs:
   # Build job
   build:
-    runs-on: [self-hosted, linux, x64, ubuntu-24.04, docker, sondiale]
+    runs-on: [self-hosted, linux, x64, ubuntu-24.04, docker, gp-maroc-ma]
 
     container:
       image: ubuntu:24.04
@@ -84,7 +84,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: [self-hosted, linux, x64, ubuntu-24.04, docker, sondiale]
+    runs-on: [self-hosted, linux, x64, ubuntu-24.04, docker, gp-maroc-ma]
     needs: build
     steps:
       - name: Deploy to GitHub Pages
